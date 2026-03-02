@@ -1,0 +1,26 @@
+# GUI Dependencies
+PyQt6>=6.4.0
+
+# Core Dependencies (from dirsearch)
+requests>=2.25.1
+PySocks>=1.7.1
+Jinja2>=3.0.0
+defusedxml>=0.7.1
+pyOpenSSL>=22.1.0
+requests-ntlm>=1.3.0
+colorama>=0.4.4
+ntlm-auth>=1.5.0
+beautifulsoup4>=4.9.0
+mysql-connector-python>=8.0.0
+psycopg[binary]>=3.0.0
+defusedcsv>=3.0.0
+requests-toolbelt>=0.9.0
+httpx>=0.23.0
+httpx-ntlm>=1.3.0
+
+# Standard library dependencies (usually included with Python)
+# json (part of standard library)
+# sys (part of standard library)
+# os (part of standard library)
+# subprocess (part of standard library)
+# threading (part of standard library)
