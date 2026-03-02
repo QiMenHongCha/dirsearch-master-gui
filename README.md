@@ -27,11 +27,14 @@
    ```bash
    pip install -r requirements.txt
    ```
+   
    或者单独安装：
+   
    ```bash
    pip install PyQt6 requests PySocks Jinja2 defusedxml pyOpenSSL requests-ntlm colorama ntlm-auth beautifulsoup4 mysql-connector-python psycopg[binary] defusedcsv requests-toolbelt httpx httpx-ntlm
    ```
-4. 运行 GUI：
+   
+5. 运行 GUI：
    ```bash
    python admin.py
    ```
