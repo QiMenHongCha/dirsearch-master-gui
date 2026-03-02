@@ -25,7 +25,11 @@
 2. 确保已安装 Python 3.9+
 3. 安装依赖：
    ```bash
-   pip install PyQt6
+   pip install -r requirements.txt
+   ```
+   或者单独安装：
+   ```bash
+   pip install PyQt6 requests PySocks Jinja2 defusedxml pyOpenSSL requests-ntlm colorama ntlm-auth beautifulsoup4 mysql-connector-python psycopg[binary] defusedcsv requests-toolbelt httpx httpx-ntlm
    ```
 4. 运行 GUI：
    ```bash
@@ -64,6 +68,7 @@
 ## 版权信息
 
 原始 dirsearch 工具由 Mauro Soria 开发。此 GUI 界面为第三方开发，基于原工具构建。
+https://github.com/maurosoria/dirsearch
 
 ## 许可证
 
