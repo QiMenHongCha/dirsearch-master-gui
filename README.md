@@ -67,6 +67,4 @@
 
 ## 许可证
 
-遵循原始 dirsearch 工具的 GNU General Public License v3.0 许可证。
-
-工具源码:https://github.com/maurosoria/dirsearch
+遵循原始 dirsearch 工具的 GNU General Public License v2.0 许可证。
